@@ -1,0 +1,40 @@
+_repo: Conditionally-Human_51651
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stone, David
+    aliases:
+    - Stone
+    - Stone, D.
+    gutenberg_agent_id: '34066'
+    url: http://www.gutenberg.org/2009/agents/34066
+creator:
+  author:
+    agent_name: Miller, Walter M.
+    aliases:
+    - Miller, Walter Michael
+    - Miller, W. M. (Walter M.)
+    birthdate: 1923
+    deathdate: 1996
+    gutenberg_agent_id: '33738'
+    url: http://www.gutenberg.org/2009/agents/33738
+    wikipedia: http://en.wikipedia.org/wiki/Walter_M._Miller,_Jr.
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pets -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Parent and child -- Fiction'
+- GITenberg
+title: Conditionally Human
+url: http://www.gutenberg.org/ebooks/51651
